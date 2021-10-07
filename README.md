@@ -1,8 +1,13 @@
 # s1-2021-ihm
- Groupe S1-C2
+
+---
+
+## Groupe S1-C2
  
- membres :
+ ### membres :
   - Félix RIAT
   - Valentin MOUGENOT
   - Maxence FRECHIN
   - Julien MOURCELY
+
+---
