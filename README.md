@@ -26,7 +26,13 @@
 
 ## Écran prototype :
 
-![écran prototype](doc/ecran_prototype.jpg)
+#### Écran prototype de la page d'accueil
+
+![écran prototype](doc/ecran_prototype_accueil.jpg)
+
+#### Écran prototype des autres pages
+
+![écran prototype articles](doc/ecran_prototype_article.jpg)
 
 ---
 
