@@ -12,7 +12,7 @@
 
 ---
 
-## Écran de zonning :
+## Écran de zoning :
 
 #### Zoning de la page d'accueil
 
