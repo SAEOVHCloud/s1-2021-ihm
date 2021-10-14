@@ -27,3 +27,7 @@
 ## Écran prototype :
 
 ![écran prototype](doc/ecran_prototype.jpg)
+
+---
+
+
