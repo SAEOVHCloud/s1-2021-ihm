@@ -11,3 +11,7 @@
   - Julien MOURCELY
 
 ---
+
+## Écran de zonning :
+
+![écran de zoning](doc/ecran_zoning.jpg)
