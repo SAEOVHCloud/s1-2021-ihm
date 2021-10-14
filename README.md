@@ -14,4 +14,16 @@
 
 ## Écran de zonning :
 
+#### Zoning de la page d'accueil
+
 ![écran de zoning](doc/ecran_zoning.jpg)
+
+#### Zoning des autres pages
+
+![écran de zoning articles](doc/ecran_zoning_article.jpg)
+
+---
+
+## Écran prototype :
+
+![écran prototype](doc/ecran_prototype.jpg)
