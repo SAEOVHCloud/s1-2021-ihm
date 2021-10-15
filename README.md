@@ -18,16 +18,22 @@
 
 ## Livrables partie WEB
 
-<details>
-<summary>Écrans</summary>
+
  
-+ Écrans de zoning
+<details>
+<summary>Écrans de Zoning</summary>
+ 
     + Zoning de la page d'accueil
     ![écran de zoning](doc/ecran_zoning.jpg)
     + Zoning des autres pages
     ![écran de zoning articles](doc/ecran_zoning_article.jpg)
 
-+ markdown list 2
+
+</details>
+ 
+<details>
+<summary>Écrans prototype</summary>
+ 
     + Écran prototype de la page d'accueil
     ![écran prototype](doc/ecran_prototype_accueil.png)
     + Écran prototype des autres pages
