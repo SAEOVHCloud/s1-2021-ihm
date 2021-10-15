@@ -14,7 +14,7 @@
 # Livrables :
 
 ## Livrable parties Économie et Documents numérique
-[Livrable économie](S1-C2_Felix-RIAT_Maxence-FRECHIN_Julien-MOURCELY_Valentin-MOUGENOT.pdf)
+[Livrable économie](doc/S1-C2_Felix-RIAT_Maxence-FRECHIN_Julien-MOURCELY_Valentin-MOUGENOT.pdf)
 
 ---
 
