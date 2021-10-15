@@ -13,32 +13,27 @@
 ---
 # Livrables :
 
-## Livrable parties Économie et Documents numérique
+## Livrable partie Économie
 [Livrable économie](doc/S1-C2_Felix-RIAT_Maxence-FRECHIN_Julien-MOURCELY_Valentin-MOUGENOT.pdf)
 
----
+## Livrables partie WEB
 
-## Écran de zoning :
+<details>
+<summary>Écrans</summary>
+ 
++ Écrans de zoning
+    + Zoning de la page d'accueil
+    ![écran de zoning](doc/ecran_zoning.jpg)
+    + Zoning des autres pages
+    ![écran de zoning articles](doc/ecran_zoning_article.jpg)
 
-#### Zoning de la page d'accueil
++ markdown list 2
+    + Écran prototype de la page d'accueil
+    ![écran prototype](doc/ecran_prototype_accueil.png)
+    + Écran prototype des autres pages
+    ![écran prototype articles](doc/ecran_prototype_article.png)
 
-![écran de zoning](doc/ecran_zoning.jpg)
 
-#### Zoning des autres pages
-
-![écran de zoning articles](doc/ecran_zoning_article.jpg)
-
----
-
-## Écran prototype :
-
-#### Écran prototype de la page d'accueil
-
-![écran prototype](doc/ecran_prototype_accueil.png)
-
-#### Écran prototype des autres pages
-
-![écran prototype articles](doc/ecran_prototype_article.png)
-
+</details>
 ---
 
