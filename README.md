@@ -80,5 +80,6 @@ Pour le site web, nous avons choisi comme couleurs le bleu et le blanc car ce so
 ---
 
 ### Validation des pages 
+Voici un certificat de validation de nos pages ainsi que du css.
 
 ![Validation](doc/validation_html_css.pdf)
