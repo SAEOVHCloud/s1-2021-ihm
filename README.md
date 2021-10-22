@@ -65,7 +65,7 @@
 
 ---
 
-### Réalisation des différents ecrans
+### Réalisation des différents écrans
 
 > Félix RIAT
 >  * Zoning accueil
