@@ -47,6 +47,24 @@
 
 ---
 
+### Rédaction des pages web
+
+> Félix RIAT
+>  * Page présentation de l'entreprise
+
+> Julien MOURCELY
+>  * Page Stratégie et économie
+
+> Valentin MOUGENOT
+>  * Page Accueil
+>  * Page Service de l'entreprise
+>  * Page Historique
+
+> Maxence FRECHIN
+>  * Page Organisation interne
+
+---
+
 ### Choix des styles :
 
 Pour le site web, nous avons choisi comme couleurs le bleu et le blanc car ce sont les couleurs d'OVHcloud et nous avons ajouté du gris pour lier le tout. Pour l'écran d'accueil, nous avons opté pour une solution moderne qui est de mettre une image en arrière plan qui prenne toute la taille de l'écran. La barre de navigation est la même sur toutes les pages et s'animent lorsqu'on passe la souris sur un onglet. Cela permet de rendre le site plus vivant. Enfin pour ce qui est des pages d'informations nous avons opté pour le texte à côté de l'image, car cela illustre directement nos propos. De plus ces blocs sont espacés pour montrer à l'utilisateur que les informations ne font pas partie du même paragraphe.
