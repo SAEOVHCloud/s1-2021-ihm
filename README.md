@@ -9,6 +9,9 @@
   - Valentin MOUGENOT
   - Maxence FRECHIN
   - Julien MOURCELY
+ 
+ ### Référent
+ [Maxence FRECHIN](mailto:maxence.frechin@edu.univ-fcomte.fr?subject=SAE_1_06)
 
 ---
 # Livrables :
