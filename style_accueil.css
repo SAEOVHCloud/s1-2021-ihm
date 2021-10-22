@@ -96,6 +96,7 @@ header .bg img {
 #cloud {
   top: -100px;
   object-fit: contain;
+  opacity: 35%;
 }
 #stars {
   animation: anim_stars 40s infinite linear;
