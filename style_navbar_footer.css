@@ -41,7 +41,8 @@ nav ul li {
 nav a {
   color: var(--white);
 }
-nav a:hover {
+nav a:hover,
+footer a:hover {
   color: var(--white);
 }
 nav ul li::after,
