@@ -1,0 +1,133 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  margin: 20px;
+  font-weight: bold;
+}
+
+.grid-container-img-right,
+.grid-container-img-left,
+.paragraph-block {
+  background-color: #d8d8d8;
+  border-radius: 10px;
+  margin: 100px;
+}
+.grid-container-img-right p,
+.grid-container-img-left p,
+.paragraph-block p,
+.grid-container-img-right ul,
+.grid-container-img-left ul,
+.paragraph-block ul {
+  font-size: 1.2rem;
+}
+.grid-container-img-right h2,
+.grid-container-img-left h2,
+.paragraph-block h2 {
+  font-size: 1.8rem;
+}
+.grid-container-img-right p,
+.grid-container-img-left p,
+.paragraph-block p,
+.grid-container-img-right h2,
+.grid-container-img-left h2,
+.paragraph-block h2 {
+  padding: 20px 30px;
+}
+.grid-container-img-right ul,
+.grid-container-img-left ul,
+.paragraph-block ul {
+  padding: 0 50px;
+}
+.grid-container-img-right li,
+.grid-container-img-left li,
+.paragraph-block li {
+  padding: 5px 0;
+}
+.grid-container-img-right {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+.grid-container-img-left {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+.last-ul {
+  margin-bottom: 20px;
+}
+.text {
+  text-align: justify;
+}
+table {
+  border-collapse: collapse;
+}
+th {
+  background-color: #000e9c;
+  color: #fff;
+}
+th,
+td {
+  border: 2px solid black;
+  padding: 10px;
+  text-align: center;
+  font-size: 1.2rem;
+}
+.table {
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+}
+.deroule {
+  cursor: pointer;
+  margin: 0px, 10px;
+}
+.img-1 {
+  background: url(./assets/img-1.png) center/cover;
+  border-radius: 10px;
+}
+.img-2 {
+  background: url(./assets/img-2.jpg) left/cover;
+  border-radius: 10px;
+}
+.img-3 {
+  background: url(./assets/img-3.jpg) left no-repeat;
+  background-size: 125%;
+  border-radius: 10px;
+}
+.img-4 {
+  background: url(./assets/img-4.png) center/cover;
+  border-radius: 10px;
+}
+.img-5 {
+  background: url(./assets/img-5.jpg) right/cover;
+  border-radius: 10px;
+}
+.img-6 {
+  background: url(./assets/img-6.jpg) center/cover;
+  border-radius: 10px;
+}
+.img-7 {
+  background: url(./assets/img-7.jpg) center/cover;
+  border-radius: 10px;
+}
+.img-9 {
+  background: url(./assets/img-8.jpeg) right/cover;
+  border-radius: 10px;
+}
+.img-9 {
+  background: url(./assets/img-9.png) center/cover;
+  border-radius: 10px;
+}
+.img-10 {
+  background: url(./assets/img-10.jpeg) left/cover;
+  border-radius: 10px;
+}
+.img-11 {
+  background: url(./assets/img-11.png) left/cover;
+  border-radius: 10px;
+}

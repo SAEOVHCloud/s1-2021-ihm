@@ -1,0 +1,53 @@
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  margin: 20px;
+}
+h2 {
+  font-size: 2.2rem;
+  display: inline-block;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 100px;
+}
+.left,
+.right {
+  padding: 70px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.paragraph {
+  text-align: justify;
+  font-size: 1.2rem;
+}
+.date {
+  text-align: center;
+}
+.grid-container::after {
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 5700px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #000969;
+}
+.left::after {
+  content: "";
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: #000969;
+  border-radius: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+}
+.right,
+.left {
+  transition: 0.5s;
+}

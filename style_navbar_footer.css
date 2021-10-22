@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+:root {
+  --white: #fff;
+  --blue: #000e9c;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  margin-top: 130px;
+}
+
+/********************************* NAVBAR *********************************/
+
+nav {
+  background-color: var(--blue);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 5;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+nav ul li {
+  margin: 6px 15px 6px 20px;
+}
+nav a {
+  color: var(--white);
+}
+nav a:hover {
+  color: var(--white);
+}
+nav ul li::after,
+footer a::after {
+  content: "";
+  width: 0%;
+  height: 2px;
+  background: var(--white);
+  display: block;
+  margin: auto;
+  transition: 0.5s;
+}
+nav ul li:hover::after,
+footer a:hover::after {
+  width: 100%;
+}
+.img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.grid-navbar img {
+  height: 50px;
+}
+.flex-navbar a {
+  text-decoration: none;
+  color: var(--white);
+}
+.flex-navbar ul li::after {
+  content: "";
+  width: 0%;
+  height: 2px;
+  background: var(--white);
+  display: block;
+  margin: auto;
+  transition: 0.5s;
+}
+#current-tab::after {
+  width: 100%;
+}
+.flex-navbar ul li:hover::after {
+  width: 100%;
+}
+
+/*********************************** FOOTER ***********************************/
+
+footer {
+  text-align: center;
+  color: var(--white);
+  padding: 15px;
+  background-color: var(--blue);
+}
+footer a {
+  color: var(--white);
+  display: inline-block;
+}
+footer .rapport {
+  margin-bottom: 15px;
+}
+footer a,
+nav a {
+  text-decoration: none;
+}
